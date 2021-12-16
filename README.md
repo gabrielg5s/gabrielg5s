@@ -5,13 +5,6 @@
 ### Oi! Eu sou o Gabriel de Oliveira 👋
  - 🌱 Futuro desenvolvedor fullstack.
  - 💬 Estudando atualmente Ruby, React e Javascript.
-
-
-<div>    
-  <a href = "mailto:gabrielgecinco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-</div>
  
  ## <div>
   <a href="https://github.com/gabrielg5s">
@@ -21,7 +14,7 @@
 </div>
   
    
-  ## Algumas linguagens que tenho conhecimento
+  ## Linguagens que tenho conhecimento
   
 <div style="display: inline_block"><br>
   <img align="center" alt="g5-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
@@ -32,9 +25,14 @@
   <img align="center" alt="g5-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   
 </div>
+    
+  ## Contato 
   
+<div>    
+  <a href = "mailto:gabrielgecinco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-de-oliveira-88a9461b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ##
+</div>
  
  
 
