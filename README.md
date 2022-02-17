@@ -5,7 +5,7 @@
 ### Oi! Eu sou o Gabriel de Oliveira 👋
  - 🌱 Futuro desenvolvedor fullstack.
  - 💬 Estudante de Ruby, React e Javascript.
- - 😄 Buscando sempre me desenvolver pessoalmente e como profissional.
+ - 😄 Estudando diariamente para melhorar e aprender sempre.
  
 ## <div>
   <a href="https://github.com/gabrielg5s">
