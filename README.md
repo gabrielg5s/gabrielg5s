@@ -1,5 +1,8 @@
 <div >
+ <style> 
+   border-radius: 68px;
   <img align="right" alt="g5-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/864633269261434883/920872325203755048/gifgit.gif">
+ </style>
 </div>
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
@@ -9,6 +12,7 @@
  
 ## <div>
   <a href="https://github.com/gabrielg5s">
+    
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielg5s&layout=compact&langs_count=7&theme=dark"/>
 </div>
