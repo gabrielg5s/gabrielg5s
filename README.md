@@ -3,7 +3,7 @@
 </div>
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
- - 🌱 Futuro desenvolvedor fullstack.
+ - 🌱 Estagiario em Desenvolvimento de Software @DNC.group
  - 💬 Estudante de Ruby, React e Javascript.
  - 😄 Estudando diariamente para melhorar e aprender sempre.
  
