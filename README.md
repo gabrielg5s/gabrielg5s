@@ -2,7 +2,7 @@
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
  - 🌱 Estagiario em Desenvolvimento de Software @DNC.group
- - 💬 Estudante de Ruby, React e Javascript.
+ - 💬 Estudante de PHP, Vue.js, Node.js.
  - 😄 Estudando diariamente para melhorar e aprender sempre.
  
 ## <div>
