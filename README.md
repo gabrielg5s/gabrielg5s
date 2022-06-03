@@ -1,6 +1,4 @@
-<div>
-  <img align="right" alt="g5-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/864633269261434883/920872325203755048/gifgit.gif">
-</div>
+
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
  - 🌱 Estagiario em Desenvolvimento de Software @DNC.group
