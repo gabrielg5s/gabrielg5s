@@ -1,7 +1,7 @@
 
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
- - 🌱 Desenvolvedor de software @DNC.group
+ - 🌱 Desenvolvedor de software @Escola DNC
  - 💬 Estudante de Laravel, Vue.js, Nuxt.js, Node.js e Nest.js.
  - 😄 Estudando diariamente para melhorar e aprender sempre.
  
