@@ -2,7 +2,7 @@
 
 ### Oi! Eu sou o Gabriel de Oliveira 👋
  - 🌱 Estagiario em Desenvolvimento de Software @DNC.group
- - 💬 Estudante de PHP, Vue.js, Nest.js.
+ - 💬 Estudante de Laravel, Vue.js, Nuxt.js, Node.js e Nest.js .
  - 😄 Estudando diariamente para melhorar e aprender sempre.
  
 ## <div>
