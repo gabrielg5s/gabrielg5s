@@ -1,9 +1,7 @@
 
 
 ### Oi! Me chamo Gabriel Oliveira 👋
- - 🌱 Desenvolvedor de software @Escola DNC
  - 💬 Laravel, Vue.js, Nuxt.js, Node.js e Nest.js.
- - 😄 Estudando diariamente para melhorar e aprender sempre.
  
 ## <div>
   <a href="https://github.com/gabrielg5s">
